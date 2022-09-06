@@ -31,6 +31,8 @@ title: "Habits"
 author: John Doe
 date: March 22, 2005
 output: powerpoint_presentation
+ powerpoint_presentation:
+    reference_doc: my-styles.pptx
 ---
 
 # In the morning
