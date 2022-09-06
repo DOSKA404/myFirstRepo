@@ -4,7 +4,7 @@
 code
 *** Export ASSEMBLEUR x86, compilateur TASM ***
 *******************
-``.model small
+```.model small
 .stack 100h
 
 .data
@@ -25,4 +25,4 @@ INT  21h
 
 main endp
 end main
-``
+```
